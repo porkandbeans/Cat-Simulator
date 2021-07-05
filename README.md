@@ -11,6 +11,12 @@ Oven!
 
 There is literally nothing this cat simulator cannot do. Except help you find true love. But I mean this comes pretty close.
 
-# Installation
-Don't. Download "main" (not main.cpp, that's source code) and execute it in a terminal emulator of your choice
-``$./main``
+# Why did you make this?
+I have no idea
+
+# How do I use this, anyway?
+```
+git clone https://github.com/porkandbeans/Cat-Simulator/
+cd Cat-Simulator
+./main
+```
