@@ -10,3 +10,7 @@ Scan your computer for viruses (and add cat-based improvements to your operating
 Oven!
 
 There is literally nothing this cat simulator cannot do. Except help you find true love. But I mean this comes pretty close.
+
+# Installation
+Don't. Download "main" (not main.cpp, that's source code) and execute it in a terminal emulator of your choice
+$./main
