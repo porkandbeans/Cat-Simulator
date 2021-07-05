@@ -13,4 +13,4 @@ There is literally nothing this cat simulator cannot do. Except help you find tr
 
 # Installation
 Don't. Download "main" (not main.cpp, that's source code) and execute it in a terminal emulator of your choice
-$./main
+``$./main``
