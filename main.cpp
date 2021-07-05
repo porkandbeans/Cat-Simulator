@@ -41,6 +41,9 @@ int main()
         {
             garfield.status();
         }
+        else if (input == "shave")
+        {
+        }
     }
 
     return 0;
